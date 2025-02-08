@@ -1,7 +1,5 @@
 # Zapatería Montero
 
-Dark themed website template built on AstroJS, designed for fictional startup
-
 ## Tech stack:
 
 Astro, React, Tailwind, Framer Motion
