@@ -3,6 +3,6 @@ import react from '@astrojs/react';
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  base: "/zapateria-landing/",
+  base: "/zapateria-landing/docs/",
   integrations: [react(), tailwind()]
 });
